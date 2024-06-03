@@ -16,10 +16,6 @@ A scraper inspired by the Datasploit module written in Python2. This script leve
 Make sure that Recon-ng is up to date and install the WikiLeaker module using the following commands in Recon-ng:
 `marketplace install wikileaker`
 
-To install the standalone version, run the following command:
-`python3 -m pip install -U --user -r requirements.txt`
-
-
 ## Install
 
 To install run the following command:
