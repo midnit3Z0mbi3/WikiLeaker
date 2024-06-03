@@ -1,8 +1,10 @@
 # WikiLeaker.py
 A web scraper inspired by the Datasploit module written in Python2. This script leverages pandas and Python3. This is also a Recon-ng module.
-
-<img src="https://i.kym-cdn.com/entries/icons/facebook/000/006/875/1_Kcy0ZFsH8q_K_wplIaVyLQ.jpg" alt="WikiLeaks Logo" width="65%">
-
+<br>
+<div align="center">
+  <img src="https://i.kym-cdn.com/entries/icons/facebook/000/006/875/1_Kcy0ZFsH8q_K_wplIaVyLQ.jpg" alt="WikiLeaks Logo" width="65%">
+</div>
+<br><br>
 ## Prerequisites
 + Python3
 + Python3-pip
