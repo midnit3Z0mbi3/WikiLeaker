@@ -3,7 +3,7 @@ A web scraper inspired by the Datasploit module written in Python2. This script 
 <br><br>
 <div align="center">
   <img src="https://i.kym-cdn.com/entries/icons/facebook/000/006/875/1_Kcy0ZFsH8q_K_wplIaVyLQ.jpg" alt="WikiLeaks Logo" width="65%">
-  <p><i>“WikiLeaks is a giant library of the world's most persecuted documents. We give asylum to these documents, we analyze them, we promote them and we obtain more.” -  </i>  Julian Assange</p>
+  <p><i>“WikiLeaks is a giant library of the world's most persecuted documents. We give asylum to these documents, we analyze them, we promote them and we obtain more.” -  Julian Assange</i></p>
 </div>
 <br><br>
 
