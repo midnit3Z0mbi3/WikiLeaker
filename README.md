@@ -1,5 +1,5 @@
 # WikiLeaker.py
-A scraper inspired by the Datasploit module written in Python2. This script leverages pandas and Python3. This is also being submitted as a Recon-ng module.
+A web scraper inspired by the Datasploit module written in Python2. This script leverages pandas and Python3. This is also a Recon-ng module.
 
 
 ## Prerequisites
