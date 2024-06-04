@@ -1,5 +1,7 @@
 # WikiLeaker-fork
 A web scraper for WikiLeaks. 🕵️🔎 🌎
+
+This web scraper is inspired by the Datasploit module written in Python2. This script leverages Python3 and pandas, Python's data analysis toolkit. This is also a Recon-ng module.
 <br><br>
 <div align="center">
   <h2>I use WikiLeaker with all of my <a href="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM">OSINT Virtual Machine</a> builds.</h2>
@@ -12,7 +14,6 @@ A web scraper for WikiLeaks. 🕵️🔎 🌎
 </div>
 <br><br>
 
-This web scraper is inspired by the Datasploit module written in Python2. This script leverages Python3 and pandas, Python's data analysis toolkit. This is also a Recon-ng module.
 <br><br>
 <div align="center">
   <a href="https://wikileaks.org">
