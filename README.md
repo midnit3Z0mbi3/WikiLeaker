@@ -30,6 +30,7 @@ This web scraper is inspired by the Datasploit module written in Python2. This s
 + git
 + python3-lxml
 + requests
++ re
 + pandas
 + bs4
 
