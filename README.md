@@ -40,7 +40,7 @@ Make sure that Recon-ng is up to date and install the WikiLeaker module using th
 
 ## Install
 
-To install run the following command:
+To install the standalone version run the following command:
 
 `bash setup.sh`
 
