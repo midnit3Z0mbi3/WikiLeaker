@@ -1,6 +1,27 @@
-# WikiLeaker.py
-A scraper inspired by the Datasploit module written in Python2. This script leverages pandas and Python3. This is also being submitted as a Recon-ng module.
+# WikiLeaker-fork
+A web scraper for WikiLeaks. 🕵️🔎 🌎
 
+This web scraper is inspired by the Datasploit module written in Python2. This script leverages Python3 and pandas, Python's data analysis toolkit.
+<br><br>
+<div align="center">
+  <a href="https://wikileaks.org">
+  <img src="https://i.kym-cdn.com/entries/icons/facebook/000/006/875/1_Kcy0ZFsH8q_K_wplIaVyLQ.jpg" alt="WikiLeaks Logo" width="65%">
+  </a>
+  <br><br>
+  <p><i>“WikiLeaks is a giant library of the world's most persecuted documents. We give asylum to these documents, we analyze them, we promote them and we obtain more.” -  Julian Assange</i></p>
+</div>
+<br><br>
+<br><br>
+<div align="center">
+  <h2>I use WikiLeaker with all of my <a href="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM">OSINT Virtual Machine</a> builds.</h2>
+  <br>
+  <a href="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM">
+    <img src="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM/blob/main/swords.gif" alt="Samurai swords." width="50%" height="50%">
+  </a>
+ <br><br>
+ <p><i>"the best sword remains in its sheath"</i></p>
+</div>
+<br><br>
 
 ## Prerequisites
 + Python3
@@ -8,17 +29,24 @@ A scraper inspired by the Datasploit module written in Python2. This script leve
 + libre-dev
 + git
 + python3-lxml
++ requests
 + re
 + pandas
 + bs4
 
 ### Installing Prerequisites
 Make sure that Recon-ng is up to date and install the WikiLeaker module using the following commands in Recon-ng:
+
 `marketplace install wikileaker`
-To install the standalone version, run the following command:
-`python3 -m pip install -U --user -r requirements.txt`
+
+## Install
+
+To install the standalone version run the following command:
+
+`bash setup.sh`
 
 ## Running Wikileaker.py
+
 `python3 WikiLeaker.py <domain of your choosing>`
 
 Voila!
