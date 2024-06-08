@@ -19,7 +19,7 @@ This web scraper is inspired by the Datasploit module written in Python2. This s
     <img src="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM/blob/main/swords.gif" alt="Samurai swords." width="50%" height="50%">
   </a>
  <br><br>
- <p><i>"The best sword remains in its sheath. Ready for battle."</i></p>
+ <p><i>"The best sword remains in its sheath."</i></p>
 </div>
 <br><br>
 
