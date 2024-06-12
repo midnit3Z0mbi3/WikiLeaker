@@ -11,17 +11,6 @@ This web scraper is inspired by the Datasploit module written in Python2. This s
   <p><i>“WikiLeaks is a giant library of the world's most persecuted documents. We give asylum to these documents, we analyze them, we promote them and we obtain more.” -  Julian Assange</i></p>
 </div>
 <br><br>
-<br><br>
-<div align="center">
-  <h2>I use WikiLeaker with all of my <a href="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM">OSINT Virtual Machine</a> builds.</h2>
-  <br>
-  <a href="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM">
-    <img src="https://github.com/midnit3Z0mbi3/Debian_OSINT_VM/blob/main/swords.gif" alt="Samurai swords." width="50%" height="50%">
-  </a>
- <br><br>
- <p><i>"The best sword remains in its sheath."</i></p>
-</div>
-<br><br>
 
 ## Prerequisites
 + Python3
