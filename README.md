@@ -1,4 +1,4 @@
-# WikiLeaker
+# WikiLeaker-fork
 A web scraper for WikiLeaks. 🕵️🔎 🌎
 
 This web scraper is inspired by the Datasploit module written in Python2. This script leverages Python3 and pandas, Python's data analysis toolkit.
